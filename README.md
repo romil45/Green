@@ -139,6 +139,12 @@ STRIPE_WEBHOOK_SECRET=your_stripe_webhook_secret
    npm run dev
    ```
    The client will run on `http://localhost:5173`
+   
+3. ** to open admin panal**
+http://localhost:5173/seller
+SELLER_EMAIL = "admin@example.com"
+SELLER_PASSWORD = "greatstack123"
+   
 
 ##  API Endpoints
 
